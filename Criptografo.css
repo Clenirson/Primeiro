@@ -1,0 +1,80 @@
+body{
+    font-family: 'Special Elite', cursive;
+    
+    color:rgb(255, 254, 254);
+    background-color: black;
+}
+
+header{
+    padding: 50px 0;
+    margin: 20px;
+}
+
+main {
+    width: 940px;
+    margin: 0 auto;
+}
+.titulo {
+    position: relative;
+    font-size: 40px;
+	width: 1200px;
+	margin: 0 auto;
+    
+}
+.principal{
+    height: 300px;
+    width: 600px;
+    left: 240px;
+    right: 100px;
+}
+.secundario{
+    height: 300px;
+    width: 300px;
+    left: 240px;
+    right: 100px;
+}
+
+.encripto{
+
+    font-family: 'Special Elite', cursive;
+    width:20%;
+    padding: 15px 0;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.descripto{
+    font-family: 'Special Elite', cursive;
+    width:20%;
+    padding: 15px 0;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.Copiar{
+    font-family: 'Special Elite', cursive;
+    width:20%;
+    margin: 0 0 0 15px;
+    background: rgb(0, 0, 0);
+    color: white;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+} 
